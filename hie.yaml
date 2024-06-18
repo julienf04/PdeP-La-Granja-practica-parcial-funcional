@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "La-Granja:lib"
+
+    - path: "./test"
+      component: "La-Granja:test:La-Granja-test"
